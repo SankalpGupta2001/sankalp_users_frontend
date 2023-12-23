@@ -1,6 +1,6 @@
 {
   "name": "frontend_users",
-  "proxy": "https://sankalp-users.onrender.com",
+  "proxy": "https://user-management-saral.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
